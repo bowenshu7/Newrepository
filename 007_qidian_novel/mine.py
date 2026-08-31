@@ -2,7 +2,7 @@
 #author: Bowen
 #goal: to get the information of novels in qidian novel site
 #date: 2026/8/24
-#stage: going
+#stage: finished
 
 import requests
 from lxml import etree
