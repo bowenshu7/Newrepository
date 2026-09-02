@@ -1,3 +1,3 @@
 1.when you copy curl.bash, the text will add an unexpected '--url', and you need to remove it.
 2.when you find some wrong characters in the response, then look at the head in the element and look for "meta charset" to make sure if it's utf-8 or not. if not , set the charset in your code as the same as it.
-3.two xpath skills: starts-with(properties,"value") contains(properties,"value")
+3.two xpath skills: starts-with(@properties,"value") contains(@properties,"value")
