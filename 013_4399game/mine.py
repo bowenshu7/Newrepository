@@ -2,7 +2,7 @@
 #author: Bowen
 #goal: to get the information about games from 4399 web
 #date: 2026/9/4
-#stage: going
+#stage: finished
 
 import requests
 from lxml import etree
