@@ -40,7 +40,6 @@ def get_page_data(url,data_list):
         #select date
         date = element.xpath('./div/div/div/span/text()')[0]
         print(date)
-        print(f'{page}页抓取完毕')
         #sep
         print('='*75)
         data_list.append([title,pag_url,img_url,content,author,date])
@@ -95,4 +94,5 @@ if __name__ == '__main__':
     for page in range(1, pages + 1):
         url = f'https://news.yiche.com/info/categoryId0_p0_l0_f0_g0_c0_b0_{page}.html'
         get_page_data(url,data_list)
+        print(f'{page}页抓取完毕')
     save_data_csv(data_list)
