@@ -4,11 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c40c2db-d3c7-4154-a87b-10b95d024a65" name="更改" comment="day015 and day016 have finished">
-      <change afterPath="$PROJECT_DIR$/017_17173_games/mine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/018_apple_store/mine.py" afterDir="false" />
+    <list default="true" id="3c40c2db-d3c7-4154-a87b-10b95d024a65" name="更改" comment="day017 and day018 have finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/016_yiche_news/mine.py" beforeDir="false" afterPath="$PROJECT_DIR$/016_yiche_news/mine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_Douban_movieTop250/day001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001_Douban_movieTop250/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002_weathernet_next7days/day002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/002_weathernet_next7days/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/003_Anjuke_renting_messages/day003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/003_Anjuke_renting_messages/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004_CSDN_blog/day004.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/004_CSDN_blog/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_poetry_web/day005.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/005_poetry_web/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/006_Sina_international_news/day006.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/006_Sina_international_news/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/007_qidian_novel/day007.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/007_qidian_novel/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/008_souhu_car/day008.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/008_souhu_car/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009_ITHOME_news/day009.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/009_ITHOME_news/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/010_xiachufang_recipe/day010.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/010_xiachufang_recipe/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011_wangyi_house/day011.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011_wangyi_house/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012_tonghuashun_financial/day012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012_tonghuashun_financial/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/013_4399game/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/014_hupu_lol/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/015_changsha_baixing/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/016_yiche_news/day016.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/016_yiche_news/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/017_17173_games/mine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/018_apple_store/mine.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +99,30 @@
       <recent name="D:\zreedom\pycharm\PythonPractice100" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mine">
+  <component name="RunManager" selected="Python.mine (2)">
+    <configuration name="mine (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice100" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/019_qimao,cn_hot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/019_qimao,cn_hot/mine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mine (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice100" />
       <option name="ENV_FILES" value="" />
@@ -81,35 +132,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/014_hupu_lol" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/020_boccn_news" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/014_hupu_lol/mine.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mine (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractice100" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/015_changsha_baixing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/015_changsha_baixing/mine.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/020_boccn_news/mine.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mine (2)" />
+        <item itemvalue="Python.mine (1)" />
         <item itemvalue="Python.mine" />
         <item itemvalue="Python.mine (5)" />
         <item itemvalue="Python.mine (4)" />
-        <item itemvalue="Python.mine (3)" />
-        <item itemvalue="Python.mine (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +252,8 @@
       <workItem from="1788503668227" duration="2827000" />
       <workItem from="1788571974776" duration="7960000" />
       <workItem from="1788584809340" duration="689000" />
-      <workItem from="1788680858102" duration="4743000" />
+      <workItem from="1788680858102" duration="5048000" />
+      <workItem from="1788744238989" duration="6469000" />
     </task>
     <task id="LOCAL-00001" summary="new note">
       <option name="closed" value="true" />
@@ -322,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788582429994</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="day017 and day018 have finished">
+      <option name="closed" value="true" />
+      <created>1788687076244</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1788687076244</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,15 +387,16 @@
     <MESSAGE value="day013 have finished" />
     <MESSAGE value="day014 have finished" />
     <MESSAGE value="day015 and day016 have finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="day015 and day016 have finished" />
+    <MESSAGE value="day017 and day018 have finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="day017 and day018 have finished" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonPractice100$mine.coverage" NAME="mine 覆盖结果" MODIFIED="1788686562663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/018_apple_store" />
+    <SUITE FILE_PATH="coverage/PythonPractice100$mine.coverage" NAME="mine 覆盖结果" MODIFIED="1788687003080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/018_apple_store" />
     <SUITE FILE_PATH="coverage/PythonPractice100$mine__3_.coverage" NAME="mine (3) 覆盖结果" MODIFIED="1788576111863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/015_changsha_baixing" />
     <SUITE FILE_PATH="coverage/PythonPractice100$day001.coverage" NAME="day001 覆盖结果" MODIFIED="1786932341780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Douban_movieTop250" />
-    <SUITE FILE_PATH="coverage/PythonPractice100$mine__2_.coverage" NAME="mine (2) 覆盖结果" MODIFIED="1788506389880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/014_hupu_lol" />
+    <SUITE FILE_PATH="coverage/PythonPractice100$mine__2_.coverage" NAME="mine (2) 覆盖结果" MODIFIED="1788751159303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020_boccn_news" />
     <SUITE FILE_PATH="coverage/PythonPractice100$mine__5_.coverage" NAME="mine (5) 覆盖结果" MODIFIED="1788684660493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/017_17173_games" />
-    <SUITE FILE_PATH="coverage/PythonPractice100$mine__1_.coverage" NAME="mine (1) 覆盖结果" MODIFIED="1788495465346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/013_4399game" />
+    <SUITE FILE_PATH="coverage/PythonPractice100$mine__1_.coverage" NAME="mine (1) 覆盖结果" MODIFIED="1788747567167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/019_qimao,cn_hot" />
     <SUITE FILE_PATH="coverage/PythonPractice100$mine__4_.coverage" NAME="mine (4) 覆盖结果" MODIFIED="1788585369568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/016_yiche_news" />
     <SUITE FILE_PATH="coverage/PythonPractice100$decoding.coverage" NAME="decoding 覆盖结果" MODIFIED="1787320166542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
