@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c40c2db-d3c7-4154-a87b-10b95d024a65" name="更改" comment="part1 have finished">
-      <change afterPath="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/021_qimao_hot_pages/mine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/022_HUAWEI_phone/mine.py" afterDir="false" />
+    <list default="true" id="3c40c2db-d3c7-4154-a87b-10b95d024a65" name="更改" comment="day021 and day022 have finished">
+      <change afterPath="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/023_bilibili_weekly_popular/mine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/024_weread_all/mine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,30 +35,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.day001.executor": "Debug",
-    "Python.decoding.executor": "Run",
-    "Python.mine (1).executor": "Run",
-    "Python.mine (2).executor": "Run",
-    "Python.mine (3).executor": "Run",
-    "Python.mine (4).executor": "Run",
-    "Python.mine (5).executor": "Run",
-    "Python.mine.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/zreedom/pycharm/PythonPractice100/016_yiche_news",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.day001.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.decoding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mine (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.mine (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.mine (3).executor&quot;: &quot;Run&quot;,
+    &quot;Python.mine (4).executor&quot;: &quot;Run&quot;,
+    &quot;Python.mine (5).executor&quot;: &quot;Run&quot;,
+    &quot;Python.mine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/zreedom/pycharm/PythonPractice100/016_yiche_news&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\zreedom\pycharm\PythonPractice100\016_yiche_news" />
@@ -71,7 +71,7 @@
       <recent name="D:\zreedom\pycharm\PythonPractice100" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mine (4)">
+  <component name="RunManager" selected="Python.mine (1)">
     <configuration name="mine (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice100" />
       <option name="ENV_FILES" value="" />
@@ -81,35 +81,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/019_qimao,cn_hot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/024_weread_all" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/019_qimao,cn_hot/mine.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mine (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractice100" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/020_boccn_news" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/020_boccn_news/mine.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/024_weread_all/mine.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,6 +141,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="mine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice100" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/023_bilibili_weekly_popular" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/023_bilibili_weekly_popular/mine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice100" />
       <option name="ENV_FILES" value="" />
@@ -189,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mine (1)" />
+        <item itemvalue="Python.mine" />
         <item itemvalue="Python.mine (4)" />
         <item itemvalue="Python.mine (3)" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.mine (2)" />
-        <item itemvalue="Python.mine (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +226,8 @@
       <workItem from="1788584809340" duration="689000" />
       <workItem from="1788680858102" duration="5048000" />
       <workItem from="1788744238989" duration="6593000" />
-      <workItem from="1788847401795" duration="8236000" />
+      <workItem from="1788847401795" duration="8470000" />
+      <workItem from="1788920527810" duration="5197000" />
     </task>
     <task id="LOCAL-00001" summary="new note">
       <option name="closed" value="true" />
@@ -340,7 +341,23 @@
       <option name="project" value="LOCAL" />
       <updated>1788751398014</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="day021 and day022 have finished">
+      <option name="closed" value="true" />
+      <created>1788858071477</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1788858071477</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update">
+      <option name="closed" value="true" />
+      <created>1788858159789</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1788858159789</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,16 +387,18 @@
     <MESSAGE value="day015 and day016 have finished" />
     <MESSAGE value="day017 and day018 have finished" />
     <MESSAGE value="day019 and day020 have finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="day019 and day020 have finished" />
+    <MESSAGE value="day021 and day022 have finished" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonPractice100$mine.coverage" NAME="mine 覆盖结果" MODIFIED="1788687003080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/018_apple_store" />
+    <SUITE FILE_PATH="coverage/PythonPractice100$mine.coverage" NAME="mine 覆盖结果" MODIFIED="1788922268600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/023_bilibili_weekly_popular" />
     <SUITE FILE_PATH="coverage/PythonPractice100$mine__3_.coverage" NAME="mine (3) 覆盖结果" MODIFIED="1788852993108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/021_qimao_hot_pages" />
     <SUITE FILE_PATH="coverage/PythonPractice100$day001.coverage" NAME="day001 覆盖结果" MODIFIED="1786932341780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Douban_movieTop250" />
     <SUITE FILE_PATH="coverage/PythonPractice100$test.coverage" NAME="test 覆盖结果" MODIFIED="1788852826558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler" />
     <SUITE FILE_PATH="coverage/PythonPractice100$mine__2_.coverage" NAME="mine (2) 覆盖结果" MODIFIED="1788751159303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020_boccn_news" />
     <SUITE FILE_PATH="coverage/PythonPractice100$mine__5_.coverage" NAME="mine (5) 覆盖结果" MODIFIED="1788684660493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/017_17173_games" />
-    <SUITE FILE_PATH="coverage/PythonPractice100$mine__1_.coverage" NAME="mine (1) 覆盖结果" MODIFIED="1788747567167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/019_qimao,cn_hot" />
+    <SUITE FILE_PATH="coverage/PythonPractice100$mine__1_.coverage" NAME="mine (1) 覆盖结果" MODIFIED="1788925033399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/024_weread_all" />
     <SUITE FILE_PATH="coverage/PythonPractice100$mine__4_.coverage" NAME="mine (4) 覆盖结果" MODIFIED="1788857568538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/022_HUAWEI_phone" />
     <SUITE FILE_PATH="coverage/PythonPractice100$decoding.coverage" NAME="decoding 覆盖结果" MODIFIED="1787320166542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
