@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c40c2db-d3c7-4154-a87b-10b95d024a65" name="更改" comment="day037, day038 and day039 have finished">
-      <change afterPath="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/040_converse_man_shoes/mine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/041_joyoung_appliances/mine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/042_kukahome_goods/mine.py" afterDir="false" />
+    <list default="true" id="3c40c2db-d3c7-4154-a87b-10b95d024a65" name="更改" comment="day040, day041 and day042 have finished">
+      <change afterPath="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/043_haier_bridget/mine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/044_fotile_citylist/mine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/045_opple_products/mine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +72,30 @@
       <recent name="D:\zreedom\pycharm\PythonPractice100" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mine">
+  <component name="RunManager" selected="Python.mine (5)">
+    <configuration name="mine (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice100" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/043_haier_bridget" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/043_haier_bridget/mine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mine (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice100" />
       <option name="ENV_FILES" value="" />
@@ -82,35 +105,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/038_anta_sportsshoe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/044_fotile_citylist" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/038_anta_sportsshoe/mine.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mine (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractice100" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/040_converse_man_shoes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/040_converse_man_shoes/mine.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/044_fotile_citylist/mine.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,12 +151,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/039_adidas_clothes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/045_opple_products" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/039_adidas_clothes/mine.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/045_opple_products/mine.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mine" />
-        <item itemvalue="Python.mine (4)" />
-        <item itemvalue="Python.mine (3)" />
         <item itemvalue="Python.mine (5)" />
         <item itemvalue="Python.mine (2)" />
+        <item itemvalue="Python.mine (1)" />
+        <item itemvalue="Python.mine" />
+        <item itemvalue="Python.mine (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +238,8 @@
       <workItem from="1789389004273" duration="823000" />
       <workItem from="1789453848133" duration="7015000" />
       <workItem from="1789519821313" duration="9531000" />
-      <workItem from="1789608693137" duration="8739000" />
+      <workItem from="1789608693137" duration="9065000" />
+      <workItem from="1789700687019" duration="8474000" />
     </task>
     <task id="LOCAL-00001" summary="new note">
       <option name="closed" value="true" />
@@ -424,7 +425,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789537221119</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="day040, day041 and day042 have finished">
+      <option name="closed" value="true" />
+      <created>1789625013193</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1789625013193</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -463,16 +472,17 @@
     <MESSAGE value="day031,day032,day033 and day034 have finished" />
     <MESSAGE value="day035 and day036 have finished" />
     <MESSAGE value="day037, day038 and day039 have finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="day037, day038 and day039 have finished" />
+    <MESSAGE value="day040, day041 and day042 have finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="day040, day041 and day042 have finished" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonPractice100$mine.coverage" NAME="mine 覆盖结果" MODIFIED="1789624451230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/042_kukahome_goods" />
+    <SUITE FILE_PATH="coverage/PythonPractice100$mine.coverage" NAME="mine 覆盖结果" MODIFIED="1789624824522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/042_kukahome_goods" />
     <SUITE FILE_PATH="coverage/PythonPractice100$mine__3_.coverage" NAME="mine (3) 覆盖结果" MODIFIED="1789612220363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/040_converse_man_shoes" />
     <SUITE FILE_PATH="coverage/PythonPractice100$day001.coverage" NAME="day001 覆盖结果" MODIFIED="1786932341780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Douban_movieTop250" />
     <SUITE FILE_PATH="coverage/PythonPractice100$test.coverage" NAME="test 覆盖结果" MODIFIED="1788852826558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler" />
-    <SUITE FILE_PATH="coverage/PythonPractice100$mine__2_.coverage" NAME="mine (2) 覆盖结果" MODIFIED="1789526349853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/038_anta_sportsshoe" />
-    <SUITE FILE_PATH="coverage/PythonPractice100$mine__5_.coverage" NAME="mine (5) 覆盖结果" MODIFIED="1789536960835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/039_adidas_clothes" />
-    <SUITE FILE_PATH="coverage/PythonPractice100$mine__1_.coverage" NAME="mine (1) 覆盖结果" MODIFIED="1789521397844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/037_douyu_image" />
+    <SUITE FILE_PATH="coverage/PythonPractice100$mine__2_.coverage" NAME="mine (2) 覆盖结果" MODIFIED="1789707158154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/044_fotile_citylist" />
+    <SUITE FILE_PATH="coverage/PythonPractice100$mine__5_.coverage" NAME="mine (5) 覆盖结果" MODIFIED="1789710105030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/045_opple_products" />
+    <SUITE FILE_PATH="coverage/PythonPractice100$mine__1_.coverage" NAME="mine (1) 覆盖结果" MODIFIED="1789702897029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/043_haier_bridget" />
     <SUITE FILE_PATH="coverage/PythonPractice100$mine__4_.coverage" NAME="mine (4) 覆盖结果" MODIFIED="1789622391566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/041_joyoung_appliances" />
     <SUITE FILE_PATH="coverage/PythonPractice100$decoding.coverage" NAME="decoding 覆盖结果" MODIFIED="1787320166542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
