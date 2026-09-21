@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c40c2db-d3c7-4154-a87b-10b95d024a65" name="更改" comment="day043, day044 and day045 have finished">
-      <change afterPath="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/046_honor_club/mine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/047_vivo_phone/mine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/048_mihome_list/mine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/049_moutai_outhome/mine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/050_wuliangye_zhaopin/mine.py" afterDir="false" />
+    <list default="true" id="3c40c2db-d3c7-4154-a87b-10b95d024a65" name="更改" comment="day046, day047, day048, day049 and day050 have finished">
+      <change afterPath="$PROJECT_DIR$/050-070_JS_reverse_restore_data_collection_crawler/051_wuliangye_notice/mine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +70,7 @@
       <recent name="D:\zreedom\pycharm\PythonPractice100" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mine (2)">
+  <component name="RunManager" selected="Python.mine (5)">
     <configuration name="mine (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice100" />
       <option name="ENV_FILES" value="" />
@@ -121,29 +117,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mine (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractice100" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/046_honor_club" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/046_honor_club/mine.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="mine (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice100" />
       <option name="ENV_FILES" value="" />
@@ -159,6 +132,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/047_vivo_phone/mine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mine (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice100" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/050-070_JS_reverse_restore_data_collection_crawler/051_wuliangye_notice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/050-070_JS_reverse_restore_data_collection_crawler/051_wuliangye_notice/mine.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mine (5)" />
         <item itemvalue="Python.mine (2)" />
         <item itemvalue="Python.mine (1)" />
         <item itemvalue="Python.mine" />
         <item itemvalue="Python.mine (4)" />
-        <item itemvalue="Python.mine (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +238,9 @@
       <workItem from="1789519821313" duration="9531000" />
       <workItem from="1789608693137" duration="9065000" />
       <workItem from="1789700687019" duration="8617000" />
-      <workItem from="1789800408642" duration="9449000" />
+      <workItem from="1789800408642" duration="9534000" />
+      <workItem from="1789828570101" duration="2000" />
+      <workItem from="1789950053351" duration="2223000" />
     </task>
     <task id="LOCAL-00001" summary="new note">
       <option name="closed" value="true" />
@@ -444,7 +442,23 @@
       <option name="project" value="LOCAL" />
       <updated>1789710300359</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="day046, day047, day048, day049 and day050 have finished">
+      <option name="closed" value="true" />
+      <created>1789810854273</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1789810854273</updated>
+    </task>
+    <task id="LOCAL-00027" summary="day046, day047, day048, day049 and day050 have finished">
+      <option name="closed" value="true" />
+      <created>1789810859994</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1789810859994</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,7 +499,8 @@
     <MESSAGE value="day037, day038 and day039 have finished" />
     <MESSAGE value="day040, day041 and day042 have finished" />
     <MESSAGE value="day043, day044 and day045 have finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="day043, day044 and day045 have finished" />
+    <MESSAGE value="day046, day047, day048, day049 and day050 have finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="day046, day047, day048, day049 and day050 have finished" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonPractice100$mine.coverage" NAME="mine 覆盖结果" MODIFIED="1789807275149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/048_mihome_list" />
@@ -493,7 +508,7 @@
     <SUITE FILE_PATH="coverage/PythonPractice100$day001.coverage" NAME="day001 覆盖结果" MODIFIED="1786932341780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Douban_movieTop250" />
     <SUITE FILE_PATH="coverage/PythonPractice100$test.coverage" NAME="test 覆盖结果" MODIFIED="1788852826558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler" />
     <SUITE FILE_PATH="coverage/PythonPractice100$mine__2_.coverage" NAME="mine (2) 覆盖结果" MODIFIED="1789810440701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/050_wuliangye_zhaopin" />
-    <SUITE FILE_PATH="coverage/PythonPractice100$mine__5_.coverage" NAME="mine (5) 覆盖结果" MODIFIED="1789710105030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/045_opple_products" />
+    <SUITE FILE_PATH="coverage/PythonPractice100$mine__5_.coverage" NAME="mine (5) 覆盖结果" MODIFIED="1789952278506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/050-070_JS_reverse_restore_data_collection_crawler/051_wuliangye_notice" />
     <SUITE FILE_PATH="coverage/PythonPractice100$mine__1_.coverage" NAME="mine (1) 覆盖结果" MODIFIED="1789809217242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/049_moutai_outhome" />
     <SUITE FILE_PATH="coverage/PythonPractice100$mine__4_.coverage" NAME="mine (4) 覆盖结果" MODIFIED="1789804773915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/020-050_JSON_data_API_interface_crawler/047_vivo_phone" />
     <SUITE FILE_PATH="coverage/PythonPractice100$decoding.coverage" NAME="decoding 覆盖结果" MODIFIED="1787320166542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
