@@ -3,3 +3,5 @@
 3.two xpath skills: starts-with(@properties,"value") contains(@properties,"value")
 4.data = json.dumps(data,separators=(',',';')): separators=() is used to delete the unexpected space after the signs, such as ',' and ';'.
 5.the 'timestamp' in headers includes two types:1.length is 10 (unit s) 2. length is 13 (unit ms)
+6.to find the process about decoding, we could search for 'JSON.parse' to locate the data.
+7.secret articles are usually encoded by AES and DES, but there are some problems on safety on DES. So AES is the main function.
