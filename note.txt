@@ -5,3 +5,4 @@
 5.the 'timestamp' in headers includes two types:1.length is 10 (unit s) 2. length is 13 (unit ms)
 6.to find the process about decoding, we could search for 'JSON.parse' to locate the data.
 7.secret articles are usually encoded by AES and DES, but there are some problems on safety on DES. So AES is the main function.
+8.RSA encryption algorithm is a way that has two keys. And one key is used to encrypt password and can be known by strangers, the other is used to decrypt secret password and only stored in the official server. You can see it when you try to login in some websites.
