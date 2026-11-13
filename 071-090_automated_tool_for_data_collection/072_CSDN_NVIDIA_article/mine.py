@@ -2,7 +2,7 @@
 #author: Bowen
 #goal: to get the information about the article from CSDN NVIDIA
 #date: 2026/11/8
-#stage: going
+#stage: finished
 
 from playwright.sync_api import sync_playwright
 import csv
